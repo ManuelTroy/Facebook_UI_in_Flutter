@@ -1,0 +1,4 @@
+#Sat Aug 15 18:42:16 PDT 2020
+base.0=C\:\\Users\\dell\\Facebook-UI-in-Flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
